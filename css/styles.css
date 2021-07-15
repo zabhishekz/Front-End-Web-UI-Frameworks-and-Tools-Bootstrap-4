@@ -1,11 +1,11 @@
 .row-header {
   margin: 0px auto;
-  padding: 0px, 0px; }
+  padding: 0px 0px; }
 
 .row-content {
   margin: 0px auto;
-  padding: 50px, 0px;
-  border-bottom: 1px rdige;
+  padding: 50px 0px;
+  border-bottom: 1px ridge;
   min-height: 400px; }
 
 .footer {
@@ -15,7 +15,7 @@
 
 .jumbotron {
   margin: 0px auto;
-  padding: 70px, 30px;
+  padding: 70px 30px;
   background-color: #9575CD;
   color: floralwhite; }
 
@@ -47,7 +47,7 @@ body {
       left: 0;
       min-height: 300px; }
 
-#carouselButtton {
+#carouselButton {
   right: 0px;
   position: absolute;
   bottom: 0px; }
